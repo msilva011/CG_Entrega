@@ -1232,6 +1232,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moedasNaFase: 0
+  vidas: 3
   somDaMoeda: {fileID: 2070671150}
   nomeDaProximaFase: Fase II
 --- !u!4 &1696646722

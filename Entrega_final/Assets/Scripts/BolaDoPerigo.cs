@@ -8,7 +8,7 @@ public class BolaDoPerigo : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            FindObjectOfType<gameManager>().ReiniciarPartida();
+            FindObjectOfType<gameManager>().DescontarVidas();
         }
     }
 }

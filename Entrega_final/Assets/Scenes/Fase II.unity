@@ -1289,7 +1289,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moedasNaFase: 0
+  vidas: 5
   somDaMoeda: {fileID: 2070671150}
+  nomeDaProximaFase: 
 --- !u!4 &1696646722
 Transform:
   m_ObjectHideFlags: 0
